@@ -1,0 +1,61 @@
+<!DOCTYPE article> 
+<article>
+    <title>
+        <emphasis>
+            TRANSFORMACIONES GRAMATICALES QUE PIERDEN LA FUERTE EQUIVALENCIA
+        </emphasis>
+    </title>
+    <itemizedlist>
+        <listitem>
+            <comment>
+                SUSTITUCION
+            </comment>
+        </listitem>
+        <listitem>
+            <comment>
+                ELIMINACIÓN DE PRODUCIONES LAMBDA
+            </comment>
+        </listitem>
+
+        <listitem>
+            <comment>
+                ELIMINACION DE PRODUCIONES NO GENERATIVA SI SE HACE POR SUSTITUCIÓN
+            </comment>
+        </listitem>
+    </itemizedlist>
+    <section>
+        <title>
+            <emphasis>
+            TRANSFORMACIONES GRAMATICALES QUE MANTIENEN LA FUERTE EQUIVALENCIA
+            </emphasis>
+        </title>
+        <itemizedlist>
+            <listitem>
+                <comment>
+                EXPANSIÓN
+                </comment>
+            </listitem>
+            <listitem>
+                <comment>
+                ELIMINACION DE PRODUCIONES NO GENERATIVA APLICANDO NUESTRA FORMA
+                </comment>
+            </listitem>
+            <listitem>
+                <comment>
+                ELIMINACIONES DE PRODUCCIONES INÚTILES
+                </comment>
+            </listitem>
+            <listitem>
+                <comment>
+                FACTORIZACION POR IZQUIERDA
+                </comment>
+            </listitem>
+            <listitem>
+                <comment>
+                ELIMINACIÓN DE NO TERMINALES RECURSIVOS POR IZQUIERDA
+                </comment>
+                <important><comment>Solo cuando se utilizan No terminales adicionales en ciertos casos</comment></important>
+            </listitem>
+        </itemizedlist>
+    </section>
+</article>

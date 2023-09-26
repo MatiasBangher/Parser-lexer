@@ -1,0 +1,32 @@
+<!DOCTYPE article>
+    <article>
+        <info>
+            <author>
+                <firstname>
+                    Lionel
+                </firstname>
+                <surname>
+                    Messi
+                </surname>
+            </author>
+            <date>
+                18 de DICIEMBRE 2022
+            </date>
+        </info>
+        <title>
+        CAMPEONES DEL MUNDO
+        </title>
+        <important>
+            <comment>
+              ARGENTINA 3-3 FRANCIA
+            </comment>
+        </important>
+        <section>
+            <title>
+                SE NOS DIO LIONEL NO TE VAYAS NUNCA
+            </title>
+            <comment>
+              3 ESTRELLAS
+            </comment>
+        </section>
+    </article>
